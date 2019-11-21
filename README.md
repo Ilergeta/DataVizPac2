@@ -1,2 +1,2 @@
-# DataVizPac2
-https://ilergeta.github.io/
+# Mock Web
+url: https://ilergeta.github.io/
